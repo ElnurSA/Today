@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{0B1365ED-730F-4EB2-AD28-8FC50EDDD019}|Default">
+  <MonoDevelop.Ide.ItemProperties.App PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/StudnetController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="6" Column="28" />
+      <File FileName="../Domain/Models/Student.cs" Line="4" Column="35" />
+      <File FileName="../Domain/Models/BaseEntity.cs" Line="6" Column="16" />
+      <File FileName="../Service/Services/StudentService.cs" Line="21" Column="1" />
+      <File FileName="Controllers/StudnetController.cs" Line="39" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="App" expanded="True">
+            <Node name="App">
+              <Node name="Controllers" expanded="True">
+                <Node name="StudnetController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
