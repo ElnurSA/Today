@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/safiyevelnur/Desktop/Service/Service.csproj",
+      "projectUniqueName": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Service/Service.csproj",
       "projectName": "Service",
-      "projectPath": "/Users/safiyevelnur/Desktop/Service/Service.csproj",
+      "projectPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Service/Service.csproj",
       "packagesPath": "/Users/safiyevelnur/.nuget/packages/",
-      "outputPath": "/Users/safiyevelnur/Desktop/Service/obj/",
+      "outputPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Service/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/safiyevelnur/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/safiyevelnur/Desktop/Domain/Domain.csproj": {
-              "projectPath": "/Users/safiyevelnur/Desktop/Domain/Domain.csproj"
+            "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/Domain.csproj": {
+              "projectPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/Domain.csproj"
             }
           }
         }

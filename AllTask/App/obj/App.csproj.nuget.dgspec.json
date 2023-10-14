@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/safiyevelnur/Desktop/App/App.csproj": {}
+    "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/App/App.csproj": {}
   },
   "projects": {
-    "/Users/safiyevelnur/Desktop/App/App.csproj": {
+    "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/App/App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/safiyevelnur/Desktop/App/App.csproj",
+        "projectUniqueName": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/App/App.csproj",
         "projectName": "App",
-        "projectPath": "/Users/safiyevelnur/Desktop/App/App.csproj",
+        "projectPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/App/App.csproj",
         "packagesPath": "/Users/safiyevelnur/.nuget/packages/",
-        "outputPath": "/Users/safiyevelnur/Desktop/App/obj/",
+        "outputPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/App/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/safiyevelnur/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/safiyevelnur/Desktop/Service/Service.csproj": {
-                "projectPath": "/Users/safiyevelnur/Desktop/Service/Service.csproj"
+              "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Service/Service.csproj": {
+                "projectPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Service/Service.csproj"
               }
             }
           }
@@ -61,14 +61,14 @@
         }
       }
     },
-    "/Users/safiyevelnur/Desktop/Domain/Domain.csproj": {
+    "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/safiyevelnur/Desktop/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/safiyevelnur/Desktop/Domain/Domain.csproj",
+        "projectPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/Domain.csproj",
         "packagesPath": "/Users/safiyevelnur/.nuget/packages/",
-        "outputPath": "/Users/safiyevelnur/Desktop/Domain/obj/",
+        "outputPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/safiyevelnur/.nuget/NuGet/NuGet.Config"
@@ -114,14 +114,14 @@
         }
       }
     },
-    "/Users/safiyevelnur/Desktop/Service/Service.csproj": {
+    "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Service/Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/safiyevelnur/Desktop/Service/Service.csproj",
+        "projectUniqueName": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Service/Service.csproj",
         "projectName": "Service",
-        "projectPath": "/Users/safiyevelnur/Desktop/Service/Service.csproj",
+        "projectPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Service/Service.csproj",
         "packagesPath": "/Users/safiyevelnur/.nuget/packages/",
-        "outputPath": "/Users/safiyevelnur/Desktop/Service/obj/",
+        "outputPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Service/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/safiyevelnur/.nuget/NuGet/NuGet.Config"
@@ -136,8 +136,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/safiyevelnur/Desktop/Domain/Domain.csproj": {
-                "projectPath": "/Users/safiyevelnur/Desktop/Domain/Domain.csproj"
+              "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/Domain.csproj": {
+                "projectPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/Domain.csproj"
               }
             }
           }

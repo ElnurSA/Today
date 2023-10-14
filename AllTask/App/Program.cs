@@ -3,4 +3,6 @@
 StudnetController studnet = new();
 
 //studnet.GetStudentById();
-studnet.SortByStudentAge();
+//studnet.SortByStudentAge();
+//studnet.GetAllStudents();
+//studnet.AvarageOfStudentAges();

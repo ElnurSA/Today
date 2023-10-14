@@ -39,7 +39,14 @@ namespace App.Controllers
 
         public void SortByStudentAge()
         {
-            var studnets = _studentService.GetAllStudents();
+            var studnets = _studentService.SortByAge();
+            foreach (var item in studnets)
+            {
+                Console.WriteLine($"{item.FullName} - {item.email} - {item.Age}");
+            }
+
+
+            
             
         }
 

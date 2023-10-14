@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/safiyevelnur/Desktop/Domain/Domain.csproj": {}
+    "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/safiyevelnur/Desktop/Domain/Domain.csproj": {
+    "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/safiyevelnur/Desktop/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/safiyevelnur/Desktop/Domain/Domain.csproj",
+        "projectPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/Domain.csproj",
         "packagesPath": "/Users/safiyevelnur/.nuget/packages/",
-        "outputPath": "/Users/safiyevelnur/Desktop/Domain/obj/",
+        "outputPath": "/Users/safiyevelnur/Desktop/TodayLesson/AllTask/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/safiyevelnur/.nuget/NuGet/NuGet.Config"

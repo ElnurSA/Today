@@ -2,22 +2,27 @@
   <MonoDevelop.Ide.ItemProperties.App PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/StudnetController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="6" Column="28" />
+      <File FileName="Program.cs" Line="4" Column="1" />
       <File FileName="../Domain/Models/Student.cs" Line="4" Column="35" />
-      <File FileName="../Domain/Models/BaseEntity.cs" Line="6" Column="16" />
+      <File FileName="../Domain/Models/BaseEntity.cs" />
       <File FileName="../Service/Services/StudentService.cs" Line="21" Column="1" />
-      <File FileName="Controllers/StudnetController.cs" Line="39" Column="1" />
+      <File FileName="Controllers/StudnetController.cs" Line="45" Column="79" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="App" expanded="True">
             <Node name="App">
-              <Node name="Controllers" expanded="True">
-                <Node name="StudnetController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="Service" expanded="True">
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
